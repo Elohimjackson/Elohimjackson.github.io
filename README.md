@@ -1,3 +1,3 @@
 # Elohimjackson.github.io
 
-[Milestone one Code Review](https://youtu.be/JFAPfgDiEBk)
+[Milestone One Code Review](https://youtu.be/JFAPfgDiEBk)
