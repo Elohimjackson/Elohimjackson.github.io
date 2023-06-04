@@ -22,5 +22,23 @@ Yes I did meet the goals I set out to from the previous plan. I believe that I w
 
 What I was able to learn and realize was how fun it is creating essentially prototypes. It’s something that isn’t hard at all to do and something that can be as creative as the person creating it. I learned different techniques to use and implement into this artifact. There weren’t any challenges that I faced. I knew what I needed to do and I just followed my plan through and the outcome was as expected. 
 
-- [Enhancement Two Algorithm and Data Structures](https://elohimjackson.github.io/)
+- [Enhancement Two Algorithm and Data Structures](https://github.com/Elohimjackson/Elohimjackson.github.io/blob/main/CS300%20Project2%20Enhancedversion.cpp)
+
+# Briefly describe the artifact. What is it? When was it created? 
+
+The artifact used comes from a course from SNHU the course was CS300 data structures and algorithms. In this project I had to use a data structure and algorithm that would allow students to find their classes fast and effective using their course name, number, and prerequisites. This artifact was created and completed on 10/26/2022.
+
+# Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in algorithms and data structure? How was the artifact improved? 
+
+I added this artifact into the portfolio because it shows that I have used and know how to use data structures and algorithms. The specific elements from this project that showcase my skill is solving a real-world problem. Many times, when people look up information there is a hundred different things that can pop up for what they searched. With the binary search tree algorithm, it makes it easy for people to find exactly what they want. In this case for the students to find their courses. I improved this artifact by doing what I said I was going to do. I improved it by giving the binary search tree and additional feature and that being postOrder. In the project I just inOrder so it would just read it out in order. Adding post order just future showcases my skills because it shows I know how to use traversal. In postOrder it will go from the left side of the tree first then will go into the right side of the binary tree. This addition just added another feature. 
+
+# Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans? 
+
+Yes I did. I met the objectives that I set out to meet from module one. I mentioned adding postOrder into the project to add more complexity to it and to also showcase my skills and knowledge in binary search trees. The outcomes from this will showcase my skills with binary search trees. The project only had one traversal used previously and now as inOrder and postOrder. The outcomes will allow for an easier and more efficient search engine for the students when they are trying to look for their courses.
+# Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
+
+My reflection on the enhancements is that I had a good understanding of binary search trees. With this information I knew I would be able to successfully add another traversal into the project that only had inOrder. I added postOrder which goes from the left side of the tree then the right. It was easy for me to add. What I learned was just adding a small feature to something like that can make a huge difference not only that, but it will allow for a faster search engine. I didn’t face any challenges with adding another traversal it took more time actually finding the project. Because I haven’t used binary search trees since that course I just read up on a few things and it came back to me. 
+
+The outcomes that I achieved were employing strategies for building a collaborative environment. I did this by publishing my code and not only that but having inline comments so that other know exactly what the code does and what its there for. It would allow for something to easily pick it up and/or add my algorithm to one of their projects. I achieved designing, developing, and delivering communications thought this milestone in a way a non-technical person would still understand. I designed a computer solution with the algorithm that was able to solve real world problems. I used techniques, skills, and tools for the purpose of enhancing this artifact, and last I was able to develop a security mindset when thinking about how to securely add the algorithm into the pre-existing code. 
+
 - [Enhancement Three Databases](https://elohimjackson.github.io/)
