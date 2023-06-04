@@ -8,6 +8,7 @@
 
 # *Enhancement One Software Design/ Engineering*
 
+
 # Briefly describe the artifact. What is it? When was it created?
 
 This artifact is a mobile application for a loan service. The loan service deals with 3rd world countries and gives them the opportunity to still be able to get out a business loan. These places include, India, Africa, etc. just to name a few. This was created in my CS319 course here at Southern New Hampshire University and was created 8/8/2022 for my software design project. 
