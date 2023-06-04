@@ -7,4 +7,4 @@
 [Milestone One Code Review](https://youtu.be/JFAPfgDiEBk)
 
 # Artifacts
-Elohim - Enhancement One Software Design and Engineering.docx
+[Elohim - Enhancement One Software Design and Engineering.docx]
