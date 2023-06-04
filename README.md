@@ -1,5 +1,3 @@
-# Elohim's Capstone
-
 # Professional Self Assessment
 
 
