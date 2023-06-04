@@ -41,4 +41,22 @@ My reflection on the enhancements is that I had a good understanding of binary s
 
 The outcomes that I achieved were employing strategies for building a collaborative environment. I did this by publishing my code and not only that but having inline comments so that other know exactly what the code does and what its there for. It would allow for something to easily pick it up and/or add my algorithm to one of their projects. I achieved designing, developing, and delivering communications thought this milestone in a way a non-technical person would still understand. I designed a computer solution with the algorithm that was able to solve real world problems. I used techniques, skills, and tools for the purpose of enhancing this artifact, and last I was able to develop a security mindset when thinking about how to securely add the algorithm into the pre-existing code. 
 
-- [Enhancement Three Databases](https://elohimjackson.github.io/)
+- [Enhancement Three Databases](https://github.com/Elohimjackson/Elohimjackson.github.io/blob/main/ElohimProject2.zip)
+
+# Briefly describe the artifact. What is it? When was it created? 
+
+The artifact that I chose for the database comes from another course from SNHU. In this project I was to create a database of rescue animals that would be used in different types of rescues. The different types were for water, mountain/wilderness, and disaster rescue and individual tracking. This project was created early this year in 2023 for my database course. 
+
+# Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved? 
+
+I selected this artifact because it shows a lot about my skills using databases. Not only did I use databases within the project, but I also was able to incorporate a histogram, and a map that would show where there rescue animals are located. I feel like the whole artifact showcases my skills. The skills specifically that I displayed was creating a database that the teams could use to pick their animals for a specific disaster. I was also able to showcase my skills in incorporating different charts and maps. The artifact was improved by allow the users of the database to be able to delete components from the database. I did this because if a animal is already in use or something happens to the animal in the field it needs to be deleted from the database. This addition will allow that to be a smooth and easy process. 
+
+# Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans? 
+
+Yes I met the course objectives that I planned in module one. I enhanced the database exactly how I said I would. In this I was able to meet the course objectives. I was able to employ strategies for building a collaborative environment by using industry standard in line comments. This will allow for someone to see my code and know exactly what it will do and how it is used. I designed, developed, and delivered professional oral and written communications that when read will be able to be read by non-technical people that they will be able to understand. In this enhancement I was able to design a solution that would work in the real world for this particular type of database. Allowing the database owner to make these changes will enhance the database tremendously. I used industry techniques, skills, and tools in this project to meet the projects objectives and showcase my abilities in using databases. I kept a security mindset while developing this database by using industry standard techniques. 
+
+# Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
+
+Enhancing this artifact what I was able to learn while improving the database was how important a database is to a company and that with these little tweaks to the database it can take it to another level and allow for easy deletion of animals that are unavailable or not in the database anymore. I did not face any real difficulties with this artifact just needed a reprogram on databases and how I would be able to do this only took a bit of research. 
+
+
