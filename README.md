@@ -3,13 +3,8 @@
 # Professional Self Assessment
 
 
-
-
-
-
-
-
-
+# Code Review
+[Milestone One Code Review](https://youtu.be/JFAPfgDiEBk)
 
 # Artifacts
-[Milestone One Code Review](https://youtu.be/JFAPfgDiEBk)
+Elohim - Enhancement One Software Design and Engineering.docx
