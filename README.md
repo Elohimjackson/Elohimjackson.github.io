@@ -4,9 +4,10 @@
 # Code Review
 [Milestone One Code Review](https://youtu.be/JFAPfgDiEBk)
 
-# Artifacts
+# Artifacts:
+
 # Enhancement One Software Design/ Engineering
-- [GitHub link](https://github.com/Elohimjackson/Elohimjackson.github.io/blob/main/Elohim%20-%20Activity%20diagram.png)
+- [Enhancement One Software Design/ Engineering GitHub link](https://github.com/Elohimjackson/Elohimjackson.github.io/blob/main/Elohim%20-%20Activity%20diagram.png)
 
 # Briefly describe the artifact. What is it? When was it created?
 
