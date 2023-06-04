@@ -6,8 +6,7 @@
 
 # Artifacts:
 
-# Enhancement One Software Design/ Engineering
-- [Enhancement One Software Design/ Engineering GitHub link](https://github.com/Elohimjackson/Elohimjackson.github.io/blob/main/Elohim%20-%20Activity%20diagram.png)
+# *Enhancement One Software Design/ Engineering*
 
 # Briefly describe the artifact. What is it? When was it created?
 
@@ -23,6 +22,9 @@ Yes I did meet the goals I set out to from the previous plan. I believe that I w
 # Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
 
 What I was able to learn and realize was how fun it is creating essentially prototypes. It’s something that isn’t hard at all to do and something that can be as creative as the person creating it. I learned different techniques to use and implement into this artifact. There weren’t any challenges that I faced. I knew what I needed to do and I just followed my plan through and the outcome was as expected. 
+
+- [Enhancement One Software Design/ Engineering GitHub link](https://github.com/Elohimjackson/Elohimjackson.github.io/blob/main/Elohim%20-%20Activity%20diagram.png)
+
 
 - [Enhancement Two Algorithm and Data Structures file](https://github.com/Elohimjackson/Elohimjackson.github.io/blob/main/CS300%20Project2%20Enhancedversion.cpp)
 
