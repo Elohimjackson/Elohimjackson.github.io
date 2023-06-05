@@ -25,7 +25,7 @@ Yes I did meet the goals I set out to from the previous plan. I believe that I w
 
 What I was able to learn and realize was how fun it is creating essentially prototypes. It’s something that isn’t hard at all to do and something that can be as creative as the person creating it. I learned different techniques to use and implement into this artifact. There weren’t any challenges that I faced. I knew what I needed to do and I just followed my plan through and the outcome was as expected. 
 
-- [Enhancement One Software Design/ Engineering GitHub link](https://github.com/Elohimjackson/Elohimjackson.github.io/blob/main/Elohim%20-%20Activity%20diagram.png)
+- [Enhancement One Software Design/ Engineering GitHub link](https://github.com/Elohimjackson/Elohimjackson.github.io/blob/main/ElohimSoftwaredesignEnhanced.zip)
 
 # *2. Algorithms and data structure*
 
@@ -47,7 +47,7 @@ My reflection on the enhancements is that I had a good understanding of binary s
 
 The outcomes that I achieved were employing strategies for building a collaborative environment. I did this by publishing my code and not only that but having inline comments so that other know exactly what the code does and what its there for. It would allow for something to easily pick it up and/or add my algorithm to one of their projects. I achieved designing, developing, and delivering communications thought this milestone in a way a non-technical person would still understand. I designed a computer solution with the algorithm that was able to solve real world problems. I used techniques, skills, and tools for the purpose of enhancing this artifact, and last I was able to develop a security mindset when thinking about how to securely add the algorithm into the pre-existing code. 
 
-- [Enhancement Two Algorithm and Data Structures GitHub link](https://github.com/Elohimjackson/Elohimjackson.github.io/blob/main/CS300%20Project2%20Enhancedversion.cpp)
+- [Enhancement Two Algorithm and Data Structures GitHub link](https://github.com/Elohimjackson/Elohimjackson.github.io/blob/main/ElohimDatastructures%26AlgorithmEnhanced.zip)
 
 # *3. Databases*
 
@@ -67,5 +67,5 @@ Yes I met the course objectives that I planned in module one. I enhanced the dat
 
 Enhancing this artifact what I was able to learn while improving the database was how important a database is to a company and that with these little tweaks to the database it can take it to another level and allow for easy deletion of animals that are unavailable or not in the database anymore. I did not face any real difficulties with this artifact just needed a reprogram on databases and how I would be able to do this only took a bit of research. 
 
-- [Enhancement Three Databases GutHub link](https://github.com/Elohimjackson/Elohimjackson.github.io/blob/main/ElohimProject2.zip)
+- [Enhancement Three Databases GutHub link](https://github.com/Elohimjackson/Elohimjackson.github.io/blob/main/ElohimDatabaseProjectEnhanced.zip)
 
