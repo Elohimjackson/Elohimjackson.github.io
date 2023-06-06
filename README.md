@@ -1,5 +1,9 @@
 # Professional Self Assessment
 
+**About Me**
+
+Hello I am Elohim Jackson and I started my journey here at Southern New Hampshire University in 2021 and will graduating with a computer science degree this month June 2023. I was able to get my four year degree in under two years but working hard while also beign employed full time. Being at SNHU has taught me a lot about communcating, team work, and leadership skills. I am the second in my family to graduate so this is a huge accomplishment for me and my family. Below I go over the projects and my time at SNHU I hope you enjoy!
+
 **Discuss how completing your coursework throughout the program and developing the ePortfolio has helped showcased your strengths and shape your professional goals and values and prepared you to either enter or become more employable in the computer science field.**
 
 This coursework has allowed me to showcase my skills in many ways and in many directions. In this course I was able to make enhancements in software design and engineering, algorithms and data structures, and the last category databases. This course allowed me to demonstrate my skills and showcase why I am employable because I follow indistry standard best practices and can fully demonstrate to an employer my skills in these different areas that are important in computer science. With enhancing my older projects it allowed me to see areas I could improve and make a application or design better. 
